@@ -3,6 +3,8 @@
 I'm interested in Bioinformatics, especially using AI/DL in biotechnology/therapeutics  
 You can reach me at ryj827@gmail.com or ryj8075@naver.com
 
+-----------------------------------------------------------
+
 ### 🌟 Interest
 - Bioinformatics Software/Algorithm
 - Deep Learning Modeling
