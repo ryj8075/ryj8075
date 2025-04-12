@@ -3,7 +3,7 @@
 ### 🌟 Interest
 I'm interested in Bioinformatics, especially   
 - Multi-omics data analysis
-- Bioinformatics Algorithm/Software
+- Bioinformatics algorithm/software
 - AI/DL modeling for studying human disease and disorder 
 
 ### 🛠 Skills
