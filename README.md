@@ -2,9 +2,9 @@
 
 ### 🌟 Interest
 I'm interested in Bioinformatics, especially   
+- AI/DL modeling for studying human disease and disorder  
 - Multi-omics data analysis
-- Bioinformatics algorithm/software
-- AI/DL modeling for studying human disease and disorder 
+- Bioinformatics algorithm/software  
 
 ### 🛠 Skills
 <img src="https://img.shields.io/badge/PYTHON-3766AB?style=for-the-badge&logo=PYTHON&logoColor=white"/> <img src="https://img.shields.io/badge/UBUNTU-E95420?style=for-the-badge&logo=UBUNTU&logoColor=white"/> <img src="https://img.shields.io/badge/r-276DC3?style=for-the-badge&logo=R&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=PYTORCH&logoColor=white"/> <img src="https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=TENSORFLOW&logoColor=white"/> <img src="https://img.shields.io/badge/DJANGO-092E20?style=for-the-badge&logo=DJANGO&logoColor=white"/>
