@@ -12,7 +12,7 @@ I'm interested in Bioinformatics, especially
 ### ⚙ Tools
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=GITHUB&logoColor=white"/>  
 
-You can reach me at ryj827@gmail.com or ryj8075@naver.com
+You can reach me at yeojinryu27@gmail.com or ryj827@gmail.com
 
 <!--
 **ryj8075/ryj8075** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
